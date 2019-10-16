@@ -16,4 +16,5 @@ In the balck termninal that arises copy and paste the following line:
 When prompted for the password simply press enter and you will be logged into the root user. To navigate into the Food Oasis database, run the following lines:
 
 `USE FOOD_OASIS;`
+
 `SHOW TABLES;`
