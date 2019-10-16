@@ -7,7 +7,7 @@ There are several ways to connect to the MySQL instance but the simplest way is 
 ### Activating your Google Cloud Console
 To connect to our instance you must open you [Google Cloud Platform console](https://console.cloud.google.com/?_ga=2.121883787.-1085226358.1566396986) associated with you Google Account. Once you are connected you should click the button in thr top right conner pictured below:
 
-![button](https://github.com/Food-Oasis/Sahara-Repo/MySQL_Database/activate.PNG)
+![button](https://github.com/Food-Oasis/Sahara-Repo/blob/master/MySQL_Database/activate.PNG)
 
 In the balck termninal that arises copy and paste the following line:
 
