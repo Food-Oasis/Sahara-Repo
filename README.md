@@ -1,2 +1,2 @@
 # Sahara-Repo
-This repo is devoted to development of aspects of the Food Oasis application which Team Sahara is responsible for.
+This repo is devoted to the media and review of our sprint presentations delivered in biweekly class updates.
